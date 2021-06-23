@@ -14,21 +14,22 @@ The months of June and December are prime tourist months so the following sectio
 
 ### June Statistics
 Summary Statistics for the month of June (2010 – 2017)
-![JuneStats](/Resources/JuneStats.png)
 
-![JuneHist](/Resources/JuneHist.png)
+![JuneStats](Surf_Shop/Resources/JuneStats.png)
 
+![JuneHist](Surf_Shop/Resources/JuneHist.png)
 
 ### December Statistics
 Summary Statistics for the month of December (2010 – 2017)
-![DecStats](/Resources/DecStats.png)
 
-![DecHist](/Resources/DecHist.png)
+![DecStats](Surf_Shop/Resources/DecStats.png)
+
+![DecHist](Surf_Shop/Resources/DecHist.png)
 
 ### June vs. December Observations
-     • The mean temperature for the summer month of June is 74.9 degrees F which is not substantially higher than the winter month of December at 71.0 degrees F. 
-     • Roughly 75% of the data for June temperatures falls above 73.0 degrees F where the minimum recorded temperature for this month is 64.0 degrees F.  December has a minimum temperature slightly lower at 56.0 degrees F, however, again roughly 75% of the temperatures in this month are going to be in the ideal temperature range of 70 degrees F or greater.
-     • Both June and December months display a low standard deviation (std/mean<1) signaling a low variation among the temperature data for each month in the 8-year period.
+  - The mean temperature for the summer month of June is 74.9 degrees F which is not substantially higher than the winter month of December at 71.0 degrees F. 
+  - Roughly 75% of the data for June temperatures falls above 73.0 degrees F where the minimum recorded temperature for this month is 64.0 degrees F.  December has a minimum temperature slightly lower at 56.0 degrees F, however, again roughly 75% of the temperatures in this month are going to be in the ideal temperature range of 70 degrees F or greater.
+  - Both June and December months display a low standard deviation (std/mean<1) signaling a low variation among the temperature data for each month in the 8-year period.
 
 
 
